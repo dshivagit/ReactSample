@@ -1,0 +1,25 @@
+{
+  "name": "reactsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshivagit/ReactSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dshivagit/ReactSample/issues"
+  },
+  "homepage": "https://github.com/dshivagit/ReactSample#readme"
+}
